@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://d5gijehq0sjd"]
+
+[node name="Menu" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="OnlineButton" type="Button" parent="."]
+offset_left = 356.0
+offset_top = 36.0
+offset_right = 756.0
+offset_bottom = 67.0
+text = "Online"
+text_overrun_behavior = 1
+
+[node name="LocalButton" type="Button" parent="."]
+offset_left = 356.0
+offset_top = 111.0
+offset_right = 756.0
+offset_bottom = 142.0
+text = "Local
+"
+text_overrun_behavior = 1
+
+[node name="OptionsButton" type="Button" parent="."]
+offset_left = 356.0
+offset_top = 188.0
+offset_right = 756.0
+offset_bottom = 219.0
+text = "Options"
+text_overrun_behavior = 1
