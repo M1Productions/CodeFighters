@@ -54,7 +54,7 @@ int main(void)
     SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
 
-    int gamepad = 0; // which gamepad to display
+    int gamepad = 0; // which gamepad to display //test edit
 
     // Main game loop
     while (!WindowShouldClose())    // Detect window close button or ESC key
