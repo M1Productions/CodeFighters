@@ -1,1 +1,16 @@
+# Objektdateien
+src/*.o
+
+# Ausführbare Datei
+CodeFighters.exe
 CodeFighters
+
+
+# Temporäre oder Backup-Dateien
+*.tmp
+*.log
+*~
+*.swp
+*.bak
+*.old
+
